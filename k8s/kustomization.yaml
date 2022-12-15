@@ -1,5 +1,5 @@
 apiVersion: kustomize.config.k8s.io/v1beta1
-kind: kuntomization
+kind: Kustomization
 
 resources:
 - deployment.yaml
@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: riquena96/gitopsfc
-  newTag: 945a5f8bd6183f8633dc04f1673949cd71dc19aa
+  newTag: newTag
