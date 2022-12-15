@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: riquena96/gitopsfc
-  newTag: 94ae1c922d1980fb126d5c2aed9c6a78338053a6
+  newTag: a04ac54de3ba1c3f83d09876bd06c3072eebc8c2
